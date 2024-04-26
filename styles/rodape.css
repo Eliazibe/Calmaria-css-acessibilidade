@@ -13,13 +13,13 @@
 }
 
 .rodape .rodape__nav--lista .rodape__nav--lista--whatsapp::before {
-    content: url("/HTML-CSS/Projeto-06-Calmaria_Spa/assets/Whatsapp.svg")
+    content: url("/VScode/HTML-CSS/Projeto-06-Calmaria_Spa/assets/Whatsapp.svg")
 }
 
 .rodape .rodape__nav--lista .rodape__nav--lista--instagram::before {
-    content: url("/HTML-CSS/Projeto-06-Calmaria_Spa/assets/Instragam.svg");
+    content: url("/VScode/HTML-CSS/Projeto-06-Calmaria_Spa/assets/Instragam.svg");
 }
 
 .rodape .rodape__nav--lista .rodape__nav--lista--tiktok::before {
-    content: url("/HTML-CSS/Projeto-06-Calmaria_Spa/assets/Tiktok.svg");
+    content: url("/VScode/HTML-CSS/Projeto-06-Calmaria_Spa/assets/Tiktok.svg");
 }
